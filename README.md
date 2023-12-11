@@ -1,7 +1,7 @@
 # RandLALoc
-This is a deep learning assignment from Xiamen University
+This is a deep learning course assignment from Xiamen University
 
-**NOTICE**
+**NOTICE:**
 
 
 We are very grateful to RandLANet and STCLoc for their open source repository.
