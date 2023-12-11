@@ -1,0 +1,6 @@
+**/__pycache__
+datasets
+runs
+*.ply
+utils/cpp_wrappers/*/build
+utils/cpp_wrappers/*/*.so
